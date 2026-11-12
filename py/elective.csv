@@ -1,0 +1,501 @@
+student_id,department,year_of_study,gender,elective_course
+STU0001,B.Sc CS,3,Male,Machine Learning
+STU0002,B.Sc CS,2,Male,Artificial Intelligence
+STU0003,B.Sc CS,3,Female,Internet of Things
+STU0004,MCA,3,Male,Full Stack Development
+STU0005,B.Sc CS,2,Female,Artificial Intelligence
+STU0006,BCA,2,Female,Cloud Computing
+STU0007,M.Sc CS,2,Male,Big Data Analytics
+STU0008,MCA,2,Female,Data Science
+STU0009,BCA,3,Female,Machine Learning
+STU0010,B.Sc CS,2,Female,Cloud Computing
+STU0011,MCA,3,Female,Big Data Analytics
+STU0012,B.Sc CS,2,Male,Cyber Security
+STU0013,BCA,2,Male,Data Science
+STU0014,MCA,2,Male,Artificial Intelligence
+STU0015,BCA,2,Female,Machine Learning
+STU0016,B.Sc CS,3,Male,Machine Learning
+STU0017,MCA,2,Female,Big Data Analytics
+STU0018,MCA,3,Male,Full Stack Development
+STU0019,BCA,2,Female,Artificial Intelligence
+STU0020,MCA,2,Female,Artificial Intelligence
+STU0021,M.Sc CS,3,Male,Artificial Intelligence
+STU0022,B.Sc CS,3,Female,Machine Learning
+STU0023,M.Sc CS,2,Female,Cyber Security
+STU0024,MCA,2,Male,Internet of Things
+STU0025,MCA,3,Female,Data Science
+STU0026,M.Sc CS,2,Female,Artificial Intelligence
+STU0027,B.Sc CS,2,Male,Internet of Things
+STU0028,B.Sc CS,3,Male,Cyber Security
+STU0029,M.Sc CS,3,Male,Artificial Intelligence
+STU0030,MCA,3,Female,Artificial Intelligence
+STU0031,B.Sc CS,2,Male,Big Data Analytics
+STU0032,MCA,3,Male,Internet of Things
+STU0033,B.Sc CS,2,Female,Cloud Computing
+STU0034,M.Sc CS,3,Female,Artificial Intelligence
+STU0035,B.Sc CS,2,Female,Full Stack Development
+STU0036,M.Sc CS,2,Male,Machine Learning
+STU0037,MCA,3,Female,Full Stack Development
+STU0038,MCA,3,Female,Artificial Intelligence
+STU0039,B.Sc CS,2,Female,Machine Learning
+STU0040,MCA,3,Male,Cyber Security
+STU0041,MCA,2,Male,Full Stack Development
+STU0042,MCA,2,Female,Data Science
+STU0043,BCA,2,Male,Data Science
+STU0044,B.Sc CS,2,Male,Internet of Things
+STU0045,B.Sc CS,2,Female,Machine Learning
+STU0046,M.Sc CS,3,Male,Machine Learning
+STU0047,B.Sc CS,2,Male,Cloud Computing
+STU0048,MCA,3,Male,Data Science
+STU0049,B.Sc CS,2,Female,Data Science
+STU0050,MCA,2,Female,Machine Learning
+STU0051,B.Sc CS,3,Female,Data Science
+STU0052,BCA,3,Female,Artificial Intelligence
+STU0053,B.Sc CS,2,Male,Cyber Security
+STU0054,MCA,2,Male,Cloud Computing
+STU0055,B.Sc CS,2,Male,Machine Learning
+STU0056,MCA,3,Male,Artificial Intelligence
+STU0057,BCA,2,Male,Cloud Computing
+STU0058,MCA,2,Male,Internet of Things
+STU0059,MCA,2,Female,Artificial Intelligence
+STU0060,MCA,3,Female,Internet of Things
+STU0061,MCA,3,Male,Internet of Things
+STU0062,BCA,2,Female,Full Stack Development
+STU0063,B.Sc CS,3,Male,Full Stack Development
+STU0064,B.Sc CS,3,Male,Machine Learning
+STU0065,MCA,2,Male,Cloud Computing
+STU0066,MCA,2,Male,Machine Learning
+STU0067,M.Sc CS,2,Male,Artificial Intelligence
+STU0068,B.Sc CS,2,Male,Internet of Things
+STU0069,B.Sc CS,3,Male,Data Science
+STU0070,B.Sc CS,2,Male,Internet of Things
+STU0071,MCA,3,Female,Data Science
+STU0072,MCA,3,Male,Artificial Intelligence
+STU0073,M.Sc CS,2,Female,Full Stack Development
+STU0074,MCA,2,Female,Full Stack Development
+STU0075,B.Sc CS,2,Male,Big Data Analytics
+STU0076,BCA,2,Male,Cloud Computing
+STU0077,B.Sc CS,3,Prefer not to say,Internet of Things
+STU0078,MCA,2,Male,Cyber Security
+STU0079,B.Sc CS,2,Male,Artificial Intelligence
+STU0080,MCA,3,Female,Big Data Analytics
+STU0081,MCA,2,Female,Artificial Intelligence
+STU0082,B.Sc CS,2,Male,Cyber Security
+STU0083,MCA,3,Female,Artificial Intelligence
+STU0084,B.Sc CS,3,Male,Data Science
+STU0085,B.Sc CS,2,Female,Artificial Intelligence
+STU0086,B.Sc CS,3,Male,Artificial Intelligence
+STU0087,B.Sc CS,2,Female,Big Data Analytics
+STU0088,BCA,2,Female,Cyber Security
+STU0089,B.Sc CS,3,Female,Machine Learning
+STU0090,MCA,2,Male,Machine Learning
+STU0091,BCA,2,Male,Cloud Computing
+STU0092,M.Sc CS,3,Male,Machine Learning
+STU0093,MCA,2,Female,Artificial Intelligence
+STU0094,BCA,2,Male,Full Stack Development
+STU0095,BCA,3,Female,Cyber Security
+STU0096,B.Sc CS,2,Female,Data Science
+STU0097,B.Sc CS,2,Male,Full Stack Development
+STU0098,MCA,2,Female,Artificial Intelligence
+STU0099,MCA,3,Male,Cloud Computing
+STU0100,B.Sc CS,2,Female,Data Science
+STU0101,BCA,2,Male,Cyber Security
+STU0102,MCA,3,Female,Cloud Computing
+STU0103,B.Sc CS,3,Female,Internet of Things
+STU0104,MCA,3,Male,Data Science
+STU0105,B.Sc CS,3,Male,Artificial Intelligence
+STU0106,M.Sc CS,2,Male,Artificial Intelligence
+STU0107,MCA,2,Female,Cloud Computing
+STU0108,MCA,2,Female,Cyber Security
+STU0109,B.Sc CS,2,Male,Big Data Analytics
+STU0110,M.Sc CS,2,Female,Machine Learning
+STU0111,B.Sc CS,3,Female,Internet of Things
+STU0112,MCA,3,Male,Cyber Security
+STU0113,B.Sc CS,2,Female,Big Data Analytics
+STU0114,M.Sc CS,3,Male,Machine Learning
+STU0115,B.Sc CS,3,Male,Artificial Intelligence
+STU0116,MCA,3,Female,Cloud Computing
+STU0117,B.Sc CS,2,Male,Machine Learning
+STU0118,B.Sc CS,3,Prefer not to say,Cyber Security
+STU0119,MCA,3,Female,Cyber Security
+STU0120,B.Sc CS,2,Female,Internet of Things
+STU0121,B.Sc CS,2,Female,Full Stack Development
+STU0122,BCA,3,Female,Cloud Computing
+STU0123,MCA,2,Male,Artificial Intelligence
+STU0124,M.Sc CS,3,Female,Full Stack Development
+STU0125,BCA,2,Male,Artificial Intelligence
+STU0126,BCA,2,Male,Artificial Intelligence
+STU0127,B.Sc CS,3,Male,Internet of Things
+STU0128,M.Sc CS,2,Female,Cyber Security
+STU0129,B.Sc CS,2,Female,Data Science
+STU0130,M.Sc CS,3,Female,Machine Learning
+STU0131,M.Sc CS,2,Male,Full Stack Development
+STU0132,B.Sc CS,2,Female,Cloud Computing
+STU0133,BCA,2,Prefer not to say,Internet of Things
+STU0134,MCA,3,Female,Big Data Analytics
+STU0135,B.Sc CS,2,Female,Data Science
+STU0136,BCA,2,Female,Full Stack Development
+STU0137,M.Sc CS,3,Male,Machine Learning
+STU0138,MCA,3,Male,Big Data Analytics
+STU0139,B.Sc CS,2,Female,Full Stack Development
+STU0140,MCA,3,Male,Cyber Security
+STU0141,B.Sc CS,2,Female,Machine Learning
+STU0142,M.Sc CS,2,Male,Artificial Intelligence
+STU0143,B.Sc CS,3,Prefer not to say,Cyber Security
+STU0144,B.Sc CS,2,Male,Full Stack Development
+STU0145,MCA,3,Female,Cyber Security
+STU0146,MCA,2,Male,Big Data Analytics
+STU0147,M.Sc CS,3,Male,Machine Learning
+STU0148,B.Sc CS,2,Female,Big Data Analytics
+STU0149,M.Sc CS,2,Male,Data Science
+STU0150,MCA,2,Female,Machine Learning
+STU0151,MCA,2,Female,Cyber Security
+STU0152,M.Sc CS,3,Prefer not to say,Artificial Intelligence
+STU0153,BCA,2,Female,Machine Learning
+STU0154,MCA,3,Male,Machine Learning
+STU0155,B.Sc CS,3,Male,Artificial Intelligence
+STU0156,MCA,3,Male,Artificial Intelligence
+STU0157,BCA,2,Female,Cyber Security
+STU0158,B.Sc CS,2,Female,Cyber Security
+STU0159,MCA,2,Male,Artificial Intelligence
+STU0160,BCA,3,Male,Full Stack Development
+STU0161,MCA,3,Female,Data Science
+STU0162,B.Sc CS,3,Male,Machine Learning
+STU0163,MCA,3,Female,Internet of Things
+STU0164,MCA,3,Male,Machine Learning
+STU0165,MCA,2,Female,Data Science
+STU0166,MCA,2,Male,Cloud Computing
+STU0167,M.Sc CS,3,Male,Artificial Intelligence
+STU0168,MCA,2,Male,Cyber Security
+STU0169,MCA,2,Male,Big Data Analytics
+STU0170,MCA,2,Male,Big Data Analytics
+STU0171,BCA,3,Female,Artificial Intelligence
+STU0172,M.Sc CS,2,Female,Artificial Intelligence
+STU0173,BCA,2,Prefer not to say,Internet of Things
+STU0174,M.Sc CS,2,Male,Data Science
+STU0175,B.Sc CS,3,Male,Cyber Security
+STU0176,M.Sc CS,2,Male,Data Science
+STU0177,B.Sc CS,3,Male,Artificial Intelligence
+STU0178,MCA,3,Male,Full Stack Development
+STU0179,B.Sc CS,3,Female,Cloud Computing
+STU0180,M.Sc CS,2,Female,Machine Learning
+STU0181,MCA,2,Female,Cloud Computing
+STU0182,M.Sc CS,3,Male,Machine Learning
+STU0183,MCA,3,Prefer not to say,Cloud Computing
+STU0184,M.Sc CS,2,Male,Full Stack Development
+STU0185,M.Sc CS,2,Male,Cyber Security
+STU0186,B.Sc CS,2,Female,Machine Learning
+STU0187,BCA,3,Female,Cyber Security
+STU0188,MCA,2,Female,Artificial Intelligence
+STU0189,B.Sc CS,3,Female,Full Stack Development
+STU0190,B.Sc CS,2,Male,Internet of Things
+STU0191,B.Sc CS,3,Male,Cloud Computing
+STU0192,MCA,2,Female,Artificial Intelligence
+STU0193,M.Sc CS,2,Female,Data Science
+STU0194,BCA,2,Male,Cloud Computing
+STU0195,M.Sc CS,3,Male,Machine Learning
+STU0196,B.Sc CS,2,Female,Artificial Intelligence
+STU0197,MCA,3,Female,Cloud Computing
+STU0198,B.Sc CS,3,Male,Artificial Intelligence
+STU0199,B.Sc CS,2,Female,Machine Learning
+STU0200,B.Sc CS,2,Female,Data Science
+STU0201,MCA,2,Male,Artificial Intelligence
+STU0202,MCA,2,Female,Artificial Intelligence
+STU0203,MCA,3,Male,Artificial Intelligence
+STU0204,B.Sc CS,3,Male,Cyber Security
+STU0205,MCA,3,Female,Big Data Analytics
+STU0206,MCA,3,Female,Data Science
+STU0207,B.Sc CS,3,Male,Data Science
+STU0208,MCA,3,Male,Full Stack Development
+STU0209,MCA,2,Female,Cloud Computing
+STU0210,MCA,2,Male,Cloud Computing
+STU0211,M.Sc CS,2,Female,Artificial Intelligence
+STU0212,B.Sc CS,3,Female,Data Science
+STU0213,MCA,2,Female,Machine Learning
+STU0214,M.Sc CS,2,Male,Data Science
+STU0215,BCA,3,Female,Full Stack Development
+STU0216,M.Sc CS,3,Male,Full Stack Development
+STU0217,MCA,2,Male,Big Data Analytics
+STU0218,B.Sc CS,3,Male,Internet of Things
+STU0219,BCA,3,Male,Data Science
+STU0220,B.Sc CS,2,Male,Cyber Security
+STU0221,MCA,2,Prefer not to say,Data Science
+STU0222,M.Sc CS,2,Male,Artificial Intelligence
+STU0223,MCA,3,Female,Internet of Things
+STU0224,BCA,3,Female,Cloud Computing
+STU0225,MCA,3,Female,Artificial Intelligence
+STU0226,BCA,2,Male,Cloud Computing
+STU0227,MCA,3,Male,Machine Learning
+STU0228,MCA,2,Female,Machine Learning
+STU0229,B.Sc CS,3,Female,Full Stack Development
+STU0230,B.Sc CS,2,Male,Internet of Things
+STU0231,MCA,2,Female,Cloud Computing
+STU0232,MCA,2,Male,Artificial Intelligence
+STU0233,MCA,2,Female,Machine Learning
+STU0234,B.Sc CS,3,Male,Full Stack Development
+STU0235,BCA,2,Male,Machine Learning
+STU0236,MCA,3,Male,Data Science
+STU0237,M.Sc CS,2,Male,Data Science
+STU0238,MCA,3,Male,Machine Learning
+STU0239,MCA,3,Female,Cyber Security
+STU0240,MCA,3,Female,Artificial Intelligence
+STU0241,B.Sc CS,2,Female,Machine Learning
+STU0242,MCA,3,Female,Machine Learning
+STU0243,M.Sc CS,3,Female,Cloud Computing
+STU0244,MCA,3,Female,Data Science
+STU0245,M.Sc CS,2,Female,Cyber Security
+STU0246,B.Sc CS,2,Male,Artificial Intelligence
+STU0247,MCA,2,Female,Cyber Security
+STU0248,MCA,2,Male,Artificial Intelligence
+STU0249,BCA,3,Female,Data Science
+STU0250,BCA,2,Male,Cyber Security
+STU0251,M.Sc CS,3,Male,Cloud Computing
+STU0252,M.Sc CS,3,Male,Big Data Analytics
+STU0253,M.Sc CS,2,Male,Data Science
+STU0254,M.Sc CS,2,Female,Artificial Intelligence
+STU0255,BCA,3,Male,Machine Learning
+STU0256,M.Sc CS,2,Male,Machine Learning
+STU0257,MCA,3,Female,Internet of Things
+STU0258,BCA,3,Male,Artificial Intelligence
+STU0259,B.Sc CS,3,Female,Machine Learning
+STU0260,MCA,3,Female,Internet of Things
+STU0261,M.Sc CS,2,Female,Cyber Security
+STU0262,B.Sc CS,2,Female,Artificial Intelligence
+STU0263,B.Sc CS,2,Prefer not to say,Machine Learning
+STU0264,MCA,3,Male,Cyber Security
+STU0265,M.Sc CS,2,Female,Cyber Security
+STU0266,B.Sc CS,2,Male,Cyber Security
+STU0267,B.Sc CS,2,Male,Full Stack Development
+STU0268,MCA,2,Female,Machine Learning
+STU0269,MCA,3,Male,Data Science
+STU0270,B.Sc CS,2,Female,Artificial Intelligence
+STU0271,MCA,3,Female,Cyber Security
+STU0272,M.Sc CS,2,Female,Internet of Things
+STU0273,B.Sc CS,2,Male,Big Data Analytics
+STU0274,MCA,3,Male,Cloud Computing
+STU0275,B.Sc CS,2,Female,Cyber Security
+STU0276,MCA,2,Female,Artificial Intelligence
+STU0277,BCA,3,Male,Machine Learning
+STU0278,B.Sc CS,2,Male,Cloud Computing
+STU0279,BCA,3,Female,Data Science
+STU0280,M.Sc CS,3,Male,Cyber Security
+STU0281,M.Sc CS,2,Female,Artificial Intelligence
+STU0282,MCA,2,Female,Machine Learning
+STU0283,MCA,3,Female,Machine Learning
+STU0284,M.Sc CS,3,Prefer not to say,Artificial Intelligence
+STU0285,MCA,2,Female,Full Stack Development
+STU0286,BCA,2,Male,Artificial Intelligence
+STU0287,MCA,2,Male,Data Science
+STU0288,MCA,3,Female,Data Science
+STU0289,B.Sc CS,3,Prefer not to say,Internet of Things
+STU0290,BCA,2,Female,Full Stack Development
+STU0291,M.Sc CS,2,Female,Artificial Intelligence
+STU0292,BCA,3,Female,Internet of Things
+STU0293,B.Sc CS,2,Male,Full Stack Development
+STU0294,B.Sc CS,3,Male,Full Stack Development
+STU0295,B.Sc CS,2,Male,Full Stack Development
+STU0296,M.Sc CS,2,Male,Big Data Analytics
+STU0297,B.Sc CS,2,Female,Internet of Things
+STU0298,B.Sc CS,2,Male,Cloud Computing
+STU0299,BCA,3,Male,Cyber Security
+STU0300,BCA,2,Female,Cloud Computing
+STU0301,B.Sc CS,2,Male,Internet of Things
+STU0302,BCA,2,Female,Machine Learning
+STU0303,MCA,3,Male,Full Stack Development
+STU0304,MCA,2,Female,Cloud Computing
+STU0305,MCA,3,Female,Cyber Security
+STU0306,MCA,2,Male,Cyber Security
+STU0307,B.Sc CS,2,Male,Full Stack Development
+STU0308,MCA,3,Female,Artificial Intelligence
+STU0309,BCA,3,Male,Data Science
+STU0310,MCA,2,Female,Artificial Intelligence
+STU0311,B.Sc CS,2,Female,Data Science
+STU0312,MCA,2,Female,Cloud Computing
+STU0313,BCA,2,Female,Data Science
+STU0314,M.Sc CS,3,Female,Cloud Computing
+STU0315,MCA,3,Female,Data Science
+STU0316,MCA,2,Male,Internet of Things
+STU0317,B.Sc CS,2,Male,Full Stack Development
+STU0318,BCA,3,Male,Machine Learning
+STU0319,B.Sc CS,2,Male,Cyber Security
+STU0320,MCA,3,Male,Big Data Analytics
+STU0321,M.Sc CS,3,Male,Data Science
+STU0322,M.Sc CS,3,Male,Machine Learning
+STU0323,MCA,2,Male,Artificial Intelligence
+STU0324,BCA,2,Male,Machine Learning
+STU0325,B.Sc CS,3,Male,Big Data Analytics
+STU0326,B.Sc CS,2,Male,Cyber Security
+STU0327,MCA,3,Male,Machine Learning
+STU0328,M.Sc CS,2,Male,Artificial Intelligence
+STU0329,MCA,3,Male,Data Science
+STU0330,MCA,2,Female,Artificial Intelligence
+STU0331,B.Sc CS,3,Male,Machine Learning
+STU0332,MCA,2,Male,Cloud Computing
+STU0333,B.Sc CS,3,Female,Full Stack Development
+STU0334,MCA,3,Male,Internet of Things
+STU0335,B.Sc CS,3,Female,Full Stack Development
+STU0336,MCA,3,Prefer not to say,Internet of Things
+STU0337,BCA,3,Female,Cyber Security
+STU0338,MCA,2,Male,Data Science
+STU0339,MCA,3,Female,Data Science
+STU0340,B.Sc CS,3,Male,Internet of Things
+STU0341,M.Sc CS,2,Female,Full Stack Development
+STU0342,MCA,2,Female,Full Stack Development
+STU0343,MCA,2,Female,Artificial Intelligence
+STU0344,M.Sc CS,3,Female,Artificial Intelligence
+STU0345,MCA,2,Male,Full Stack Development
+STU0346,BCA,2,Female,Cloud Computing
+STU0347,B.Sc CS,3,Male,Internet of Things
+STU0348,M.Sc CS,2,Female,Artificial Intelligence
+STU0349,B.Sc CS,3,Male,Artificial Intelligence
+STU0350,MCA,2,Male,Artificial Intelligence
+STU0351,M.Sc CS,2,Female,Artificial Intelligence
+STU0352,B.Sc CS,3,Female,Artificial Intelligence
+STU0353,BCA,2,Female,Big Data Analytics
+STU0354,MCA,2,Female,Machine Learning
+STU0355,MCA,2,Female,Full Stack Development
+STU0356,B.Sc CS,3,Male,Cyber Security
+STU0357,MCA,3,Female,Artificial Intelligence
+STU0358,MCA,3,Female,Big Data Analytics
+STU0359,MCA,3,Female,Full Stack Development
+STU0360,B.Sc CS,2,Male,Machine Learning
+STU0361,MCA,3,Female,Cyber Security
+STU0362,B.Sc CS,2,Female,Cyber Security
+STU0363,MCA,3,Male,Data Science
+STU0364,MCA,2,Female,Data Science
+STU0365,BCA,3,Female,Data Science
+STU0366,MCA,2,Male,Data Science
+STU0367,B.Sc CS,2,Female,Cloud Computing
+STU0368,MCA,3,Female,Machine Learning
+STU0369,B.Sc CS,2,Female,Big Data Analytics
+STU0370,MCA,2,Female,Internet of Things
+STU0371,M.Sc CS,3,Female,Artificial Intelligence
+STU0372,B.Sc CS,3,Male,Cyber Security
+STU0373,MCA,2,Male,Data Science
+STU0374,M.Sc CS,3,Female,Data Science
+STU0375,BCA,2,Male,Data Science
+STU0376,MCA,3,Male,Artificial Intelligence
+STU0377,B.Sc CS,3,Male,Cloud Computing
+STU0378,BCA,3,Female,Artificial Intelligence
+STU0379,B.Sc CS,2,Male,Full Stack Development
+STU0380,BCA,2,Prefer not to say,Cloud Computing
+STU0381,B.Sc CS,2,Prefer not to say,Data Science
+STU0382,B.Sc CS,2,Female,Cyber Security
+STU0383,MCA,3,Male,Cyber Security
+STU0384,BCA,3,Female,Internet of Things
+STU0385,M.Sc CS,3,Female,Artificial Intelligence
+STU0386,M.Sc CS,3,Female,Artificial Intelligence
+STU0387,M.Sc CS,3,Male,Cyber Security
+STU0388,MCA,3,Female,Full Stack Development
+STU0389,BCA,2,Female,Machine Learning
+STU0390,B.Sc CS,2,Female,Internet of Things
+STU0391,M.Sc CS,3,Female,Artificial Intelligence
+STU0392,MCA,3,Male,Data Science
+STU0393,B.Sc CS,2,Male,Internet of Things
+STU0394,B.Sc CS,2,Female,Full Stack Development
+STU0395,BCA,3,Male,Artificial Intelligence
+STU0396,B.Sc CS,3,Male,Cloud Computing
+STU0397,MCA,3,Female,Artificial Intelligence
+STU0398,B.Sc CS,2,Male,Artificial Intelligence
+STU0399,MCA,2,Male,Artificial Intelligence
+STU0400,MCA,3,Female,Big Data Analytics
+STU0401,B.Sc CS,3,Female,Machine Learning
+STU0402,B.Sc CS,3,Male,Machine Learning
+STU0403,BCA,3,Female,Data Science
+STU0404,MCA,3,Female,Data Science
+STU0405,BCA,3,Female,Data Science
+STU0406,M.Sc CS,2,Female,Machine Learning
+STU0407,MCA,2,Female,Cloud Computing
+STU0408,M.Sc CS,3,Female,Cloud Computing
+STU0409,B.Sc CS,2,Male,Full Stack Development
+STU0410,M.Sc CS,3,Female,Full Stack Development
+STU0411,M.Sc CS,3,Female,Big Data Analytics
+STU0412,B.Sc CS,2,Male,Artificial Intelligence
+STU0413,M.Sc CS,2,Male,Cyber Security
+STU0414,BCA,3,Female,Machine Learning
+STU0415,MCA,2,Female,Machine Learning
+STU0416,MCA,3,Male,Data Science
+STU0417,M.Sc CS,3,Male,Cloud Computing
+STU0418,B.Sc CS,3,Female,Data Science
+STU0419,M.Sc CS,2,Female,Artificial Intelligence
+STU0420,MCA,3,Female,Cyber Security
+STU0421,B.Sc CS,3,Male,Internet of Things
+STU0422,B.Sc CS,3,Male,Internet of Things
+STU0423,B.Sc CS,2,Male,Full Stack Development
+STU0424,B.Sc CS,2,Female,Full Stack Development
+STU0425,M.Sc CS,3,Female,Machine Learning
+STU0426,B.Sc CS,3,Male,Internet of Things
+STU0427,B.Sc CS,2,Female,Artificial Intelligence
+STU0428,MCA,3,Female,Machine Learning
+STU0429,BCA,2,Male,Internet of Things
+STU0430,M.Sc CS,3,Female,Cloud Computing
+STU0431,M.Sc CS,3,Male,Internet of Things
+STU0432,M.Sc CS,3,Male,Machine Learning
+STU0433,B.Sc CS,3,Male,Cloud Computing
+STU0434,M.Sc CS,2,Female,Cyber Security
+STU0435,B.Sc CS,2,Male,Cloud Computing
+STU0436,MCA,2,Female,Full Stack Development
+STU0437,MCA,2,Female,Internet of Things
+STU0438,M.Sc CS,2,Female,Artificial Intelligence
+STU0439,MCA,2,Male,Big Data Analytics
+STU0440,MCA,3,Male,Machine Learning
+STU0441,B.Sc CS,2,Male,Artificial Intelligence
+STU0442,MCA,3,Male,Full Stack Development
+STU0443,B.Sc CS,3,Male,Machine Learning
+STU0444,BCA,2,Male,Full Stack Development
+STU0445,B.Sc CS,3,Male,Artificial Intelligence
+STU0446,MCA,2,Male,Big Data Analytics
+STU0447,M.Sc CS,2,Female,Data Science
+STU0448,B.Sc CS,2,Male,Big Data Analytics
+STU0449,MCA,3,Female,Cloud Computing
+STU0450,M.Sc CS,3,Female,Internet of Things
+STU0451,BCA,3,Male,Cloud Computing
+STU0452,MCA,2,Male,Big Data Analytics
+STU0453,B.Sc CS,2,Female,Artificial Intelligence
+STU0454,B.Sc CS,2,Female,Artificial Intelligence
+STU0455,MCA,3,Male,Artificial Intelligence
+STU0456,M.Sc CS,2,Female,Internet of Things
+STU0457,M.Sc CS,3,Female,Big Data Analytics
+STU0458,BCA,3,Female,Machine Learning
+STU0459,MCA,3,Male,Artificial Intelligence
+STU0460,BCA,3,Female,Data Science
+STU0461,MCA,2,Male,Data Science
+STU0462,MCA,3,Female,Big Data Analytics
+STU0463,MCA,2,Male,Data Science
+STU0464,BCA,3,Male,Machine Learning
+STU0465,BCA,3,Male,Cloud Computing
+STU0466,M.Sc CS,2,Male,Internet of Things
+STU0467,B.Sc CS,2,Male,Machine Learning
+STU0468,MCA,2,Male,Cloud Computing
+STU0469,B.Sc CS,3,Male,Full Stack Development
+STU0470,MCA,3,Male,Machine Learning
+STU0471,B.Sc CS,3,Male,Cloud Computing
+STU0472,MCA,2,Male,Machine Learning
+STU0473,B.Sc CS,3,Male,Full Stack Development
+STU0474,M.Sc CS,2,Male,Full Stack Development
+STU0475,M.Sc CS,3,Female,Artificial Intelligence
+STU0476,M.Sc CS,3,Male,Artificial Intelligence
+STU0477,MCA,2,Female,Artificial Intelligence
+STU0478,M.Sc CS,2,Male,Machine Learning
+STU0479,B.Sc CS,2,Male,Full Stack Development
+STU0480,B.Sc CS,2,Male,Artificial Intelligence
+STU0481,MCA,3,Male,Artificial Intelligence
+STU0482,B.Sc CS,3,Female,Full Stack Development
+STU0483,MCA,3,Male,Data Science
+STU0484,B.Sc CS,2,Female,Internet of Things
+STU0485,B.Sc CS,3,Female,Internet of Things
+STU0486,B.Sc CS,3,Female,Cyber Security
+STU0487,B.Sc CS,2,Female,Machine Learning
+STU0488,M.Sc CS,3,Female,Data Science
+STU0489,BCA,2,Female,Full Stack Development
+STU0490,BCA,3,Male,Artificial Intelligence
+STU0491,M.Sc CS,3,Male,Full Stack Development
+STU0492,MCA,3,Female,Cloud Computing
+STU0493,BCA,3,Male,Cloud Computing
+STU0494,B.Sc CS,3,Female,Full Stack Development
+STU0495,MCA,2,Male,Cyber Security
+STU0496,M.Sc CS,3,Male,Data Science
+STU0497,MCA,2,Female,Machine Learning
+STU0498,M.Sc CS,2,Female,Cloud Computing
+STU0499,MCA,3,Female,Big Data Analytics
+STU0500,MCA,2,Female,Cloud Computing

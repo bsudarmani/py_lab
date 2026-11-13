@@ -1,0 +1,133 @@
+# **Simple Angular Program – Sum of N Numbers Using Dynamic Forms**
+
+This is a simplified version for your practical exam. It uses **Angular Reactive Forms and FormArray**.
+
+### **1. app.html**
+
+```
+
+<h2>Sum of N Numbers</h2>
+
+<label>How many numbers?</label>
+<input type="number" #count value="3">
+
+<button (click)="createForm(count.valueAsNumber)">
+  Create Form
+</button>
+
+<form [formGroup]="myForm" (ngSubmit)="calculate()">
+
+  <div formArrayName="numbers">
+
+    @for (item of numbers.controls; track $index; let i = $index) {
+      <p>
+        Number {{i+1}}
+        <input type="number" [formControlName]="i">
+      </p>
+    }
+
+  </div>
+
+  <button type="button" (click)="addNumber()">
+    Add Number
+  </button>
+
+  <button type="submit">
+    Find Sum
+  </button>
+
+</form>
+
+<h3>Sum: {{total}}</h3>
+
+```
+
+### **2. app.ts**
+
+```
+
+import { Component } from '@angular/core';
+
+import {
+  FormGroup,
+  FormArray,
+  FormControl,
+  ReactiveFormsModule
+} from '@angular/forms';
+
+@Component({
+  selector: 'app-root',
+  imports: [ReactiveFormsModule],
+  templateUrl: './app.html'
+})
+
+export class App {
+
+  myForm = new FormGroup({
+    numbers: new FormArray<FormControl<number | null>>([])
+  });
+
+  total = 0;
+
+  get numbers() {
+    return this.myForm.controls.numbers;
+  }
+
+  createForm(count: number) {
+
+    this.numbers.clear();
+
+    for (let i = 0; i < count; i++) {
+      this.numbers.push(new FormControl(0));
+    }
+
+    this.total = 0;
+  }
+
+  addNumber() {
+    this.numbers.push(new FormControl(0));
+  }
+
+  calculate() {
+
+    this.total = this.numbers.controls.reduce(
+      (sum, control) => sum + (control.value ?? 0),
+      0
+    );
+
+  }
+
+}
+
+```
+
+### **3. Output**
+
+**Sum of N Numbers**
+
+How many numbers? &#x20;
+
+3
+
+
+
+Number 1:  1\
+Number 2:  5\
+Number 3:  3
+
+# **Sum: 9**
+
+### **4. Important keywords for practical exam**
+
+| Keyword           | Purpose                      |
+| ----------------- | ---------------------------- |
+| `FormGroup`       | Groups form controls         |
+| `FormArray`       | Stores multiple input fields |
+| `FormControl`     | Creates one input field      |
+| `formArrayName`   | Connects HTML with FormArray |
+| `formControlName` | Connects individual input    |
+| `push()`          | Adds a new field             |
+| `clear()`         | Removes all fields           |
+| `reduce()`        | Calculates the sum           |
+
+**Result:** Thus, the sum of N numbers is calculated successfully using Angular Dynamic Reactive Forms.

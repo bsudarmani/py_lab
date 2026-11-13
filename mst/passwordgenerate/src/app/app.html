@@ -1,0 +1,5 @@
+<form [formGroup]="passForm" (ngSubmit)="handlesubmit()">
+<input type="text" placeholder="enter the name" formControlName="password">
+<button type="submit">Generate password</button>
+</form>
+<h3>{{result}}</h3>

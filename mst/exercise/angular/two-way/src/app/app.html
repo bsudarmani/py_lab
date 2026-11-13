@@ -1,0 +1,11 @@
+<div>
+  <option (change)="handleoperation()" [(ngModel)]="selectoption">
+    @for(o of options;track $index)
+    {
+      <option>{{o}}</option>
+    }
+  </option>
+  <input [ngModel]="num" type="value" placeholder="Enter the number">
+  <p>{{result}}</p>
+</div>
+<router-outlet />
